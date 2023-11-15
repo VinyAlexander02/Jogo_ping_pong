@@ -8,5 +8,5 @@
 
 
 ![Screenshot_1](https://github.com/VinyAlexander02/Jogo_ping_pong/assets/70180220/0a79276c-0a71-4ed0-9d3f-c99b48ab826e)
-![Screenshot_3](https://github.com/VinyAlexander02/Jogo_ping_pong/assets/70180220/a73329e0-c3f2-47b4-8a58-b32130b9a1b4)
 ![Screenshot_2](https://github.com/VinyAlexander02/Jogo_ping_pong/assets/70180220/ef687dbf-6694-4cd1-9287-d7848c15b9e8)
+![Screenshot_3](https://github.com/VinyAlexander02/Jogo_ping_pong/assets/70180220/a73329e0-c3f2-47b4-8a58-b32130b9a1b4)
